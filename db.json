@@ -69,7 +69,13 @@
             "title": "Main Heading",
             "type": "text",
             "description": "Main Heading"
-        }] 
+        }],
+        "content":[{ 
+          "id": 112,
+          "title": "logo",
+          "type": "img",
+          "description": "src/img/logo/png"
+       }]  
       }] 
     },
     { "id": 2,
@@ -83,6 +89,22 @@
             "type": "text",
             "description": "Main Heading"
         }] 
+      }], 
+      "section":[{ 
+        "id": 22,
+        "title": "content with text",
+        "content":[{ 
+            "id": 221,
+            "title": "Para",
+            "type": "text",
+            "description": "A detailed explanation of something"
+        }],
+        "content":[{ 
+          "id": 222,
+          "title": "logo",
+          "type": "img",
+          "description": "src/img/logo/png"
+       }]  
       }] 
     },
     { "id": 3,
@@ -100,7 +122,5 @@
     }
 
   ]
-  
-  
   
 }
