@@ -121,7 +121,8 @@
     "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nr"
   }
   ],
-  "pages": [
+  
+"pages": [
     { "id": 1,
       "title": "home",
       "section":[{ 
@@ -185,8 +186,6 @@
     }
 
   ]
-  
-}
 
   
 }
