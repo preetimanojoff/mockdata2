@@ -59,9 +59,45 @@
   }
  ],
   "pages": [
-    { "id": 1, "title": "home", "section":[{ "title": "Heading", "type": "text", "content": "home is a beautiful place" }] },
-    { "id": 2, "title": "about us", "section":[{ "title": "Heading", "type": "text", "content": "home is a beautiful place" }]  },
-    { "id": 3, "title": "contact us", "section":[{ "title": "Heading", "type": "text", "content": "home is a beautiful place" }]  }
+    { "id": 1,
+      "title": "home",
+      "section":[{ 
+        "id": 11,
+        "title": "Header",
+        "content":[{ 
+            "id": 111,
+            "title": "Main Heading",
+            "type": "text",
+            "description": "Main Heading"
+        }] 
+      }] 
+    },
+    { "id": 2,
+      "title": "about us",
+      "section":[{ 
+        "id": 21,
+        "title": "Header",
+        "content":[{ 
+            "id": 211,
+            "title": "Main Heading",
+            "type": "text",
+            "description": "Main Heading"
+        }] 
+      }] 
+    },
+    { "id": 3,
+      "title": "contact us",
+      "section":[{ 
+        "id": 31,
+        "title": "Header",
+        "content":[{ 
+            "id": 311,
+            "title": "Main Heading",
+            "type": "text",
+            "description": "Main Heading"
+        }] 
+      }] 
+    }
 
   ]
   
