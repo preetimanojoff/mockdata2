@@ -59,9 +59,12 @@
   }
  ],
   "pages": [
-    { "id": 1, "title": "home" },
-    { "id": 2, "title": "about us" },
-    { "id": 3, "title": "contact us" }
+    { "id": 1, "title": "home", "section":[{ "title": "Heading", "type": "text", "content": "home is a beautiful place" }] },
+    { "id": 2, "title": "about us", "section":[{ "title": "Heading", "type": "text", "content": "home is a beautiful place" }]  },
+    { "id": 3, "title": "contact us", "section":[{ "title": "Heading", "type": "text", "content": "home is a beautiful place" }]  }
+
   ]
+  
+  
   
 }
