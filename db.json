@@ -62,72 +62,83 @@
     }
   ],
   "pages": [
-
-    { "id": 1,
-      "title": "home",
-      "section":[{ 
-        "id": 11,
-        "title": "Header",
-        "content":[
-          { 
-            "id": 111,
-            "title": "Main Heading",
-            "type": "text",
-            "description": "Main Heading"
-          },
-          {
-            "id": 112,
-            "title": "logo",
-            "type": "img",
-            "description": "src/img/logo/png"
-        }]  
-      }] 
+    {
+      "id": 1,
+      "title": "home"
     },
-
-    { "id": 2,
-      "title": "about us",
-      "section":[{ 
-        "id": 21,
-        "title": "Header",
-        "content":[{ 
-            "id": 211,
-            "title": "Main Heading",
-            "type": "text",
-            "description": "Main Heading"
-        }] 
-        },
-        { 
-          "id": 22,
-          "title": "content with text",
-          "content":[{ 
-              "id": 221,
-              "title": "Para",
-              "type": "text",
-              "description": "A detailed explanation of something"
-              },
-              { 
-                "id": 222,
-                "title": "logo",
-                "type": "img",
-                "description": "src/img/logo/png"
-            }]  
-      }] 
+    {
+      "id": 1,
+      "title": "about_us"
     },
-
-    { "id": 3,
-      "title": "contact us",
-      "section":[{ 
-        "id": 31,
-        "title": "Header",
-        "content":[{ 
-            "id": 311,
-            "title": "Main Heading",
-            "type": "text",
-            "description": "Main Heading"
-        }] 
-      }] 
+    {
+      "id": 1,
+      "title": "contact_us"
     }
-
+  ],
+  "sections":[
+    {
+      "id": 11,
+      "title": "Header",
+      "page_id": 1
+    },
+    {
+      "id": 21,
+      "title": "Header",
+      "page_id": 2
+    },
+    {
+      "id": 22,
+      "title": "content with text",
+      "page_id": 2
+    },
+    {
+      "id": 31,
+      "title": "Header",
+      "page_id": 3
+    }
+  ],
+  "contents":[
+    {
+      "id": 111,
+      "section_id":11,
+      "title": "Main Heading",
+      "type": "text",
+      "description": "Main Heading"
+    },
+    {
+      "id": 112,
+      "section_id":11,
+      "title": "logo",
+      "type": "img",
+      "description": "src/img/logo/png"
+    },
+    {
+      "id": 211,
+      "section_id":21,
+      "title": "Main Heading",
+      "type": "text",
+      "description": "Main Heading"
+    },
+    {
+      "id": 221,
+      "section_id":22,
+      "title": "Para",
+      "type": "text",
+      "description": "A detailed explanation of something"
+    },
+    {
+      "id": 222,
+      "section_id":22,
+      "title": "logo",
+      "type": "img",
+      "description": "src/img/logo/png"
+    },
+    {
+      "id": 311,
+      "section_id":31,
+      "title": "Main Heading",
+      "type": "text",
+      "description": "Main Heading"
+    }
   ]
-  
 }
