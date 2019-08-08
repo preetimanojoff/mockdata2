@@ -80,7 +80,8 @@
     },
     { "id": 2,
       "title": "about us",
-      "section":[{ 
+      "section":[
+        { 
         "id": 21,
         "title": "Header",
         "content":[{ 
@@ -88,25 +89,26 @@
             "title": "Main Heading",
             "type": "text",
             "description": "Main Heading"
-        }] 
-      }], 
-      "section":[{ 
+        }]
+        }
+        { 
         "id": 22,
         "title": "content with text",
-        "content":[{ 
+        "content":[
+            { 
             "id": 221,
             "title": "Para",
             "type": "text",
             "description": "A detailed explanation of something"
-        }],
-        "content":[{ 
+          },
+        {
           "id": 222,
           "title": "logo",
           "type": "img",
           "description": "src/img/logo/png"
-       }]  
-      }] 
-    },
+       } 
+      ] 
+    }],
     { "id": 3,
       "title": "contact us",
       "section":[{ 
