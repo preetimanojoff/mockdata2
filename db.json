@@ -64,87 +64,54 @@
   "pages": [
     {
       "id": 1,
-      "title": "home"
+      "title": "home",
+      "section":[
+        {
+        "id": 11,
+        "title": "header",
+        "content":[
+          {
+            "id": 111,
+            "title": "title",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      }
+    ]
     },
     {
       "id": 2,
-      "title": "about_us"
+      "title": "about_us",
+      "section":[
+        { 
+        "id": 21,
+        "title": "footer",
+        "content":[
+          {
+            "id": 211,
+            "title": "title",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      }]
     },
     {
       "id": 3,
-      "title": "contact_us"
+      "title": "contact_us",
+      "section":[
+        { 
+        "id": 31,
+        "title": "header",
+        "content":[
+          {
+            "id": 311,
+            "title": "title",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      }]
     }
-  ],
-  "sections":[
-    {
-      "id": 11,
-      "title": "Header",
-      "page_id": 1
-    },
-    {
-      "id": 21,
-      "title": "Header",
-      "page_id": 2
-    },
-    {
-      "id": 22,
-      "title": "content with text",
-      "page_id": 2
-    },
-    {
-      "id": 31,
-      "title": "Header",
-      "page_id": 3
-    }
-  ],
-  "contents":[
-    {
-      "id": 111,
-      "section_id":11,
-      "page_id":1,
-      "title": "Main Heading",
-      "type": "text",
-      "description": "Main Heading"
-    },
-    {
-      "id": 112,
-      "section_id":11,
-      "page_id":1,
-      "title": "logo",
-      "type": "img",
-      "description": "src/img/logo/png"
-    },
-    {
-      "id": 211,
-      "section_id":21,
-      "page_id":2,
-      "title": "Main Heading",
-      "type": "text",
-      "description": "Main Heading"
-    },
-    {
-      "id": 221,
-      "section_id":22,
-      "page_id":2,
-      "title": "Para",
-      "type": "text",
-      "description": "A detailed explanation of something"
-    },
-    {
-      "id": 222,
-      "section_id":22,
-      "page_id":2,
-      "title": "logo",
-      "type": "img",
-      "description": "src/img/logo/png"
-    },
-    {
-      "id": 311,
-      "section_id":31,
-      "page_id":3,
-      "title": "Main Heading",
-      "type": "text",
-      "description": "Main Heading"
-    }
-  ]
 }
