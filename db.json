@@ -61,7 +61,24 @@
       "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nr"
     }
   ],
+  // "pages": [
+  //   {
+  //     "title":"Page Title1",
+  //     "key":"Key1",
+  //     "seo_data": {
+  //       "url":"url1",
+  //       "meta_title":"meta-title1",
+  //       "meta-description":"description sample"
+  //     },
+  //     "section": [{
+  //       "key":"key1.1",
+  //       "title":"title1.1",
+  //       "type":"HTML"
+  //     }]
+  //   }
+  // ]
   
+
   "pages": [
     {
       "id": 1,
@@ -127,6 +144,5 @@
         ] 
       }]
     }
-  ],
-
-} 
+  ]
+}
