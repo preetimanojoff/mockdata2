@@ -1,5 +1,47 @@
 {
-  
+  "users": [
+      {
+      "id": 1,
+      "firstname": "Preeti",
+      "lastname": "Manoj",
+      "username": "premanoj",
+      "email": "preeti@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 1,
+      "firstname": "Krishnan",
+      "lastname": "Unni",
+      "username": "krishunni",
+      "email": "kichu@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 1,
+      "firstname": "Hari",
+      "lastname": "Gangadharan",
+      "username": "harig",
+      "email": "hari@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 1,
+      "firstname": "jane",
+      "lastname": "doe",
+      "username": "janedoe",
+      "email": "jane@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 1,
+      "firstname": "john",
+      "lastname": "doe",
+      "username": "johndoe",
+      "email": "johns@terrificmind.com",
+      "password": "12345678"
+    },
+    
+  ],
   "pages": [
     {
       "id": 1,
