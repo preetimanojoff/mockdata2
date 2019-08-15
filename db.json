@@ -9,7 +9,7 @@
         "title": "title",
         "type":"text"
       }
-    ],
+    ]
   },
   {
     "id": 112,
@@ -20,7 +20,7 @@
         "title": "title",
         "type":"text"
       }
-    ],
-  },
+    ]
+  }
 ]
 }
