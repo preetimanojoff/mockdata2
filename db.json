@@ -7,36 +7,4 @@
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et o"
     }
   ],
-  
-  "pages": [
-    {
-      "id": 1,
-      "title": "home",
-      "section":[
-        {
-        "id": 11,
-        "title": "header",
-        "content":[
-          {
-            "id": 111,
-            "title": "title",
-            "type":"text",
-            "desc": "My description is here"
-          }
-        ] 
-      },
-      {
-        "id": 12,
-        "title": "section 2 ",
-        "content":[
-          {
-            "id": 121,
-            "title": "section 2 of page 1",
-            "type":"text",
-            "desc": "My description is here"
-          }
-        ] 
-      }
-    ]
-    },
 }
