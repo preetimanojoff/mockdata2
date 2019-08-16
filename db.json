@@ -16,6 +16,123 @@
       "username": "krishunni",
       "email": "kichu@terrificmind.com",
       "password": "12345678"
+    },
+    {
+      "id": 3,
+      "firstname": "Hari",
+      "lastname": "Gangadharan",
+      "username": "harig",
+      "email": "hari@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 4,
+      "firstname": "jane",
+      "lastname": "doe",
+      "username": "janedoe",
+      "email": "jane@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 5,
+      "firstname": "john",
+      "lastname": "doe",
+      "username": "johndoe",
+      "email": "johns@terrificmind.com",
+      "password": "12345678"
     }
+    
+  ],
+  
+  "pages": [
+    {
+      "id": 1,
+      "title": "home",
+      "section":[
+        {
+        "id": 11,
+        "title": "header",
+        "content":[
+          {
+            "id": 111,
+            "title": "title",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      },
+      {
+        "id": 12,
+        "title": "section 2 ",
+        "content":[
+          {
+            "id": 121,
+            "title": "section 2 of page 1",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      }
     ]
+    },
+    {
+      "id": 2,
+      "title": "about_us",
+      "section":[
+        { 
+        "id": 21,
+        "title": "footer",
+        "content":[
+          {
+            "id": 211,
+            "title": "title",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      }]
+    },
+    {
+      "id": 3,
+      "title": "contact_us",
+      "section":[
+        { 
+        "id": 31,
+        "title": "header",
+        "content":[
+          {
+            "id": 311,
+            "title": "title",
+            "type":"text",
+            "desc": "My description is here"
+          }
+        ] 
+      }]
+    }
+  ],
+  
+  "contents":[
+  {
+    "id": 111,
+    "title": "Main Heading",
+    "field":[
+      {
+        "id": 311,
+        "title": "title",
+        "type":"text"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "logo",
+     "field":[
+      {
+        "id": 311,
+        "title": "title",
+        "type":"text"
+      }
+    ]
+  }
+]
 }
