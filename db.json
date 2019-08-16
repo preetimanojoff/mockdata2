@@ -1,3 +1,20 @@
 {
-  "hello": "world"
+  
+  "users": [
+      {
+      "id": 1,
+      "firstname": "Preeti",
+      "lastname": "Manoj",
+      "username": "premanoj",
+      "email": "preeti@terrificmind.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "firstname": "Krishnan",
+      "lastname": "Unni",
+      "username": "krishunni",
+      "email": "kichu@terrificmind.com",
+      "password": "12345678"
+    }
 }
