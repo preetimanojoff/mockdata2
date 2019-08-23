@@ -137,16 +137,19 @@
 ],
   "files":[
     {
+      "id": 1,
       "name": "readygo",
       "url": "http://localhost:3000/",
       "createdBy": "asdf@qwer.com"
     },
     {
+      "id": 2,
       "name": "hello",
       "url": "http://localhost:3000/",
       "createdBy": "asdf@qwer.com"
     },
     {
+      "id": 3,
       "name": "world",
       "url": "http://localhost:3000/",
       "createdBy": "asdf@qwer.com"
