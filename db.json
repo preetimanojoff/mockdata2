@@ -134,5 +134,22 @@
       }
     ]
   }
-]
+],
+  "files":[
+    {
+      "name": "readygo",
+      "url": "http://localhost:3000/",
+      "createdBy": "asdf@qwer.com"
+    },
+    {
+      "name": "hello",
+      "url": "http://localhost:3000/",
+      "createdBy": "asdf@qwer.com"
+    },
+    {
+      "name": "world",
+      "url": "http://localhost:3000/",
+      "createdBy": "asdf@qwer.com"
+    }
+  ]
 }
